@@ -1,9 +1,9 @@
 ## ⚡ Hi there, I'm Lukas Rose
 
 ### I'm a young developer looking to grow my skills and networking!
-- 📚 I’m currently finishing my 3rd year at York University!
+- 📚 I’m currently finishing my 3rd year at York University, Toronto!
 - 🌱 I’m currently learning: UNIX shell, Algorithm Analysis, and System Specification (Rodin Platform).
-- 👔 I’m looking for internship opportunities as well as collaborate with other developers. 
+- 👔 I’m looking for internship opportunities as well as collaborations with other developers. 
 - ✔️ 2021 Goals: Dive further into C/C++, and improve my Web Development skills.
 - ⛰️ Fun fact: I come from a German background and I love Fishing!
 
