@@ -1,6 +1,6 @@
 ## ⚡ Hi there, I'm Lukas Rose
 
-### I'm a young developer looking to develop my skills and networking!
+### I'm a young developer looking to grow my skills and networking!
 - 📚 I’m currently finishing my 3rd year at York University!
 - 🌱 I’m currently learning: UNIX shell, Algorithm Analysis, and System Specification (Rodin Platform).
 - 👔 I’m looking for internship opportunities as well as collaborate with other developers. 
