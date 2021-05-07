@@ -4,7 +4,7 @@
 - 📚 I’m currently in my 4th and final year at York University, Toronto!
 - 🌱 I’m currently learning: UNIX shell, Algorithm Analysis, and System Specification (Rodin Platform).
 - 👔 I’m looking for internship opportunities as well as collaborations with other developers. 
-- ✔️ 2021 Goals: Dive further into C/C++, and improve my Web Development skills.
+- ✔️ 2021 Goals: Dive further into HTML5, CSS3, JavaScript, Node.js, and more!
 - ⛰️ Fun fact: I come from a German background and I love Fishing!
 
 ### Connect with me:
