@@ -1,4 +1,4 @@
-## ⚡ Hi there, I'm Lukas Rose
+## ⚡ Hi there, I'm Lukas 
 
 ### I'm a young developer looking to grow my skills and networking!
 - 📚 I’m currently in my 4th and final year at York University, Toronto!
