@@ -28,11 +28,9 @@
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
 - [Web Development Project: Portfolio](https://www.eecs.yorku.ca/~lukayork/)
-- [Java Application](https://github.com/rose-lukas/Venn-Diagram-Application)
-- [Eiffel Game](https://github.com/rose-lukas/Eiffel_Game)
+- [Quote Generator](https://rose-lukas.github.io/Quote-Generator/)
+- [Venn Diagram Tool](https://github.com/rose-lukas/Venn-Diagram-Application)
 <!-- PROJECTS:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/lukas-rose-2097161a0/
-
-
