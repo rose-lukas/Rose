@@ -2,7 +2,7 @@
 
 ### I'm a young developer looking to grow my skills and networking!
 - 📚 I’m currently in my 4th and final year Software Engineering at York University, Toronto!
-- 🌱 I’m currently learning: E-Commerce, Critical Systems, Advanced Engineering.
+- 🌱 I’m currently learning: Critical Systems, Computer Security, Embedded Systems.
 - 👔 I’m looking for internship opportunities as well as collaborations with other developers. 
 - ✔️ 2022 Goals: Dive further into node.JS, Angular!
 - ⛰️ Fun fact: I come from a German background and I love Snowboarding!
