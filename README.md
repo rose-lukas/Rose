@@ -30,7 +30,8 @@
 
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
-- [Web Development Project: Portfolio](https://www.lukasrose.ca)
+- [Personal Portfolio](https://www.lukasrose.ca)
+- [Learning Projects](https://github.com/rose-lukas/Web-Development-Learning)
 - [Quote Generator](https://rose-lukas.github.io/Quote-Generator/)
 - [Venn Diagram Tool](https://github.com/rose-lukas/Venn-Diagram-Application)
 <!-- PROJECTS:END -->
