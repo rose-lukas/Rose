@@ -1,10 +1,10 @@
 ## ⚡ Hey, I'm Lukas! 
 
 ### I'm a young developer looking to grow my skills and networking!
-- 📚 I’m currently in my 4th and final year Software Engineering at York University, Toronto!
-- 🌱 I’m currently learning: Critical Systems, Computer Security, Embedded Systems.
-- 👔 I’m looking for internship opportunities as well as collaborations with other developers. 
-- ✔️ 2022 Goals: Dive further into node.JS, Angular!
+- 📚 In the middle of my 4th and final year in Software Engineering at York University, Toronto!
+- 🌱 Currently learning: Mission-Critical Systems, Network Security, Digital Systems Engineering.
+- 👔 I am always looking for internship opportunities as well as collaborations with other developers. 
+- ✔️ 2022 Goals: Dive further into node.JS, Angular, and Software Security Tools!
 - ⛰️ Fun fact: I come from a German background and I love Snowboarding!
 
 ### Connect with me:
