@@ -37,4 +37,4 @@
 <!-- PROJECTS:END -->
 
 
-[linkedin]: https://www.linkedin.com/in/lukas-rose-2097161a0/
+[linkedin]: https://www.linkedin.com/in/lukas-rose/
