@@ -32,6 +32,7 @@
 <!-- PROJECTS:START -->
 - [Personal Portfolio](https://www.lukasrose.ca)
 - [Web Development Learning Projects](https://github.com/rose-lukas/Web-Development-Learning)
+- [mapty](http://www.lukasrose.ca/mapty/)
 - [Quote Generator](https://rose-lukas.github.io/Quote-Generator/)
 - [Venn Diagram Tool](https://github.com/rose-lukas/Venn-Diagram-Application)
 <!-- PROJECTS:END -->
