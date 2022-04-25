@@ -5,7 +5,7 @@
 - 🌱 Currently learning: Mission-Critical Systems, Network Security, Digital Systems Engineering.
 - 👔 I am always looking for internship opportunities as well as collaborations with other developers. 
 - ✔️ 2022 Goals: Dive further into node.JS, Angular, and Software Security Tools!
-- ⛰️ Fun fact: I come from a German background and I love Fishing and Snowboarding!
+- ⛰️ Fun fact: I enjoy Fishing and Snowboarding!
 
 ### Connect with me:
 
