@@ -1,15 +1,16 @@
 ## ⚡ Hey, I'm Lukas! 
 
 ### I'm a young developer looking to grow my skills and networking!
-- 📚 In the middle of my 4th and final year in Software Engineering in Toronto!
-- 🌱 Currently learning: Mission-Critical Systems, Network Security, Digital Systems Engineering.
-- 👔 I am always looking for internship opportunities as well as collaborations with other developers. 
-- ✔️ 2022 Goals: Dive further into node.JS, Angular, and Software Security Tools!
+- 📚 Graduating in Bachelor of Software Engineering in Toronto at the end of 2022!
+- 🌱 Currently learning: Software Engineering Testing
+- 👔 I am always looking for opportunities in collaborations with other developers. 
+- ✔️ 2023 Goals: Open to new connections, feel free to contact me.
 - ⛰️ Fun fact: I enjoy Fishing and Snowboarding!
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Instagram_Logo.svg" />][instagram]
 
 <br />
 
@@ -39,3 +40,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/lukas-rose/
+[instagram]: https://www.instagram.com/lukasrose.ca/
