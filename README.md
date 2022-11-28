@@ -1,4 +1,4 @@
-## ⚡ Hey, I'm Lukas! 
+## 🌏 Hi, its Lukas! 
 
 ### I'm a up-and-coming full-stack developer looking to grow my skills and network!
 - 📚 Graduating from York University, Toronto with a Bachelor's degree in Software Engineering at the end of 2022.
