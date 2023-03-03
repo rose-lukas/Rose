@@ -1,11 +1,11 @@
-## 🌏 Hi, its Lukas! 
+## 🌏 Hi, I'm Lukas. 
 
-### I'm a up-and-coming full-stack developer looking to grow my skills and network!
-- 📚 Graduating from York University, Toronto with a Bachelor's degree in Software Engineering at the end of 2022.
-- 🌱 Currently learning: Software Engineering Testing
+### I'm a junior developer looking to grow my skills and network!
+- 📚 Graduated recently from York University, Toronto with a Bachelor's degree in Software Engineering.
+- 🌱 Currently learning: Elasticsearch, Ansible 
 - 👔 I am always looking for opportunities in collaborations with other developers. 
-- ✔️ 2023 Goals: Learn & build MERN stack applications :)
-- ⛰️ Fun fact: I enjoy Fishing and Snowboarding!
+- ✔️ 2023 Goals: Grow in my current developer role! Learn & build MERN stack applications on my free time :)
+- ⛰️ Hobbies: I enjoy the outdoors & sports!
 
 ### Connect with me:
 
