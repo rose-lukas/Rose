@@ -2,9 +2,9 @@
 
 ### I'm a junior developer looking to grow my skills and network!
 - 📚 Graduated recently from York University, Toronto with a Bachelor's degree in Software Engineering.
-- 🌱 Currently learning: Elasticsearch, Ansible 
+- 🌱 Currently learning: DevOps, Scripting, Ansible Automation, Elasticsearch, JFrog Artifactory.
 - 👔 I am always looking for opportunities in collaborations with other developers. 
-- ✔️ 2023 Goals: Grow in my current developer role! Learn & build MERN stack applications on my free time :)
+- ✔️ 2023 Goals: Grow in my current developer role! Learn & build full stack applications on my free time :)
 - ⛰️ Hobbies: I enjoy the outdoors & sports!
 
 ### Connect with me:
